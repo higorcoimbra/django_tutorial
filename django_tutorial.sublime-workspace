@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"P",
+				"P_VALOR"
+			],
+			[
+				"CURSO",
+				"CURSOR_PROJETO"
+			],
+			[
+				"co",
+				"COMMIT_AUX"
+			],
+			[
+				"ro",
+				"ROLLBACK_AUX"
+			],
+			[
+				"COM",
+				"COMMIT_AUX"
+			],
+			[
+				"ROL",
+				"ROLLBACK_AUX"
+			],
+			[
+				"nova",
+				"nova_transicao"
+			],
+			[
+				"estado",
+				"estadoAtual"
+			],
+			[
+				"para",
+				"paradaEstadoNaoFinal"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"entrada",
+				"entradaUsuario"
+			],
+			[
+				"entrad",
+				"entradaUsuario"
+			],
+			[
+				"t",
+				"tp1_V2"
+			],
+			[
+				"n",
+				"n_regioes"
+			],
+			[
+				"count",
+				"count0"
+			],
+			[
+				"ve",
+				"vet_aux"
+			],
+			[
+				"carro",
+				"carro_fail"
+			],
+			[
+				"best",
+				"bestIndividual"
+			],
+			[
+				"bes",
+				"bestIndividual"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"begi",
+				"begin"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"t_m",
+				"t_mut_gen"
+			],
+			[
+				"t_mu",
+				"t_mut_gen"
+			],
+			[
+				"ind",
+				"individuo"
+			],
+			[
+				"AP",
+				"AAPIInit"
+			],
+			[
+				"fit",
+				"fitnessCalc"
+			],
+			[
+				"indi",
+				"individual_fitness"
+			],
+			[
+				"li",
+				"limite_velocidade_sup"
+			],
+			[
+				"lim",
+				"limite_ffs_sup"
+			],
+			[
+				"limi",
+				"limite_ffs_inf"
+			],
+			[
+				"tam",
+				"tam_populacao"
+			],
+			[
+				"ph",
+				"photo_path"
+			],
+			[
+				"Members",
+				"MembersAdmin"
+			],
+			[
+				"margint",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"tex",
+				"text-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"Sig",
+				"SignUpAdmin"
+			],
+			[
+				"templa",
+				"template_name"
+			],
+			[
+				"get_",
+				"get_object_or_404"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"latest",
+				"latest_question_list"
+			],
+			[
+				"questi",
+				"question_id"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"Le",
+				"letter-spacing"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"questio",
+				"question_text"
+			],
+			[
+				"nome",
+				"nome_arquivo"
+			],
+			[
+				"v",
+				"v_aux"
+			],
+			[
+				"ori",
+				"origem"
+			],
+			[
+				"origem",
+				"origem_aux"
+			],
+			[
+				"matriz",
+				"matriz_A"
+			],
+			[
+				"it",
+				"iterador"
+			],
+			[
+				"map",
+				"map_matriz"
+			],
+			[
+				"re",
+				"retorna_raiz"
+			],
+			[
+				"str",
+				"str_arq_interno"
+			],
+			[
+				"es",
+				"espacos"
+			],
+			[
+				"imp",
+				"imprime_dicionario"
+			],
+			[
+				"altur",
+				"altura_aux"
+			],
+			[
+				"altura",
+				"altura_antiga"
+			],
+			[
+				"largu",
+				"largura_aux"
+			],
+			[
+				"i",
+				"i_largura"
+			],
+			[
+				"entre",
+				"espaco_entre_nos"
+			],
+			[
+				"espaco",
+				"espaco_entre_nos"
+			],
+			[
+				"espa",
+				"espaco_entre_nos"
+			],
+			[
+				"quant",
+				"quant_espacos"
+			],
+			[
+				"n_",
+				"n_espacos"
+			],
+			[
+				"quan",
+				"quant_espacos"
+			],
+			[
+				"n_es",
+				"n_esp_entre_galhos"
+			],
+			[
+				"alt",
+				"altura_aux"
+			],
+			[
+				"vetor",
+				"vetor_nos"
+			],
+			[
+				"men",
+				"menu_robo"
+			],
+			[
+				"num",
+				"num_vertices"
+			],
+			[
+				"ante",
+				"antecessor"
+			],
+			[
+				"bus",
+				"buscaemLargura"
+			],
+			[
+				"impr",
+				"imprime_adjacentes"
+			],
+			[
+				"matri",
+				"matrizadjacencia"
+			],
+			[
+				"pop",
+				"populacao_real"
+			],
+			[
+				"populacao",
+				"populacao_binario"
+			],
+			[
+				"lista",
+				"lista_ind"
+			],
+			[
+				"Ini",
+				"Individuo"
+			],
+			[
+				"funcao",
+				"funcao_aptidao_individual"
+			],
+			[
+				"fun",
+				"funcao_aptidao_vetorial"
+			],
+			[
+				"r",
+				"r_coord"
+			],
+			[
+				"vet_s",
+				"vet_s"
+			],
+			[
+				"vet",
+				"vetor_Pais"
+			],
+			[
+				"In",
+				"Individuo"
+			],
+			[
+				"veto",
+				"vetor_Pais"
+			],
+			[
+				"ordena",
+				"ordena_individuos"
+			],
+			[
+				"so",
+				"soma_peso"
+			],
+			[
+				"max",
+				"max_aux"
+			],
+			[
+				"a",
+				"avaliaigual"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"cut",
+				"cutoff"
+			],
+			[
+				"fra",
+				"fracao"
+			],
+			[
+				"soma",
+				"somalista"
+			],
+			[
+				"sia",
+				"somalista"
+			],
+			[
+				"retira",
+				"retiraInicio"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"e",
+				"elemento"
+			],
+			[
+				"ele",
+				"ele"
+			],
+			[
+				"ins",
+				"insere_ordenando"
+			],
+			[
+				"s",
+				"soma_maior"
+			],
+			[
+				"mov",
+				"mov_e"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/higor/Dropbox/Minicurso Jquery/01.html",
+		"/home/higor/Dropbox/Minicurso Jquery/02.html",
+		"/home/higor/Dropbox/BD/Lista 10/1.sql",
+		"/home/higor/Dropbox/BD/Lista 9/insercoes.sql",
+		"/home/higor/Dropbox/BD/Lista 4/q1.sql",
+		"/home/higor/Dropbox/BD/Lista 10/5.sql",
+		"/home/higor/Dropbox/BD/Lista 10/3..sql",
+		"/home/higor/Dropbox/BD/Lista 9/2.sql",
+		"/home/higor/Dropbox/BD/Lista 9/6.sql",
+		"/home/higor/Dropbox/BD/Lista 9/1.sql",
+		"/home/higor/Dropbox/BD/Lista 9/3.sql",
+		"/home/higor/Dropbox/BD/Lista 9/4.sql",
+		"/home/higor/Dropbox/BD/Lista 9/5.sql",
+		"/home/higor/.sqldeveloper/insercoes.sql",
+		"/home/higor/.sqldeveloper/2.sql",
+		"/home/higor/lfa/Estruturas.h",
+		"/home/higor/lfa/in",
+		"/home/higor/lfa/tp1_V2.cpp",
+		"/home/higor/Dropbox/BD/Lista 8/1.sql",
+		"/home/higor/Dropbox/BD/Lista 4/questao2.sql",
+		"/home/higor/lfa/makefile",
+		"/home/higor/site_pet/site_pet/site_pet/wsgi.py",
+		"/home/higor/site_pet/site_pet/site_pet/settings.py",
+		"/home/higor/Dropbox/Maratona/zeros_and_ones.cpp",
+		"/home/higor/Dropbox/Maratona/letters.cpp",
+		"/home/higor/Dropbox/Maratona/1030.cpp",
+		"/home/higor/Dropbox/Maratona/1031in",
+		"/home/higor/Dropbox/Maratona/1030in",
+		"/home/higor/Dropbox/Maratona/lettersin",
+		"/home/higor/Dropbox/Maratona/zeroin",
+		"/home/higor/site_pet/site_pet/local_settings.py",
+		"/home/higor/Dropbox/Maratona/1471.cpp",
+		"/home/higor/Dropbox/Maratona/1471in",
+		"/home/higor/Dropbox/Trabalho_Metodos/metodos_larissa/solucao_decomposicao_LU.sce",
+		"/home/higor/Downloads/metodos_tampa/decomposicao_LU.sce",
+		"/home/higor/Dropbox/Maratona/1031.cpp",
+		"/home/higor/Dropbox/Maratona/teste.cpp",
+		"/home/higor/site_pet/site_pet/site_pet/zeros_and_ones.cpp",
+		"/home/higor/Dropbox/Maratona/ain",
+		"/home/higor/Dropbox/Maratona/1004.cpp",
+		"/home/higor/Dropbox/Maratona/1005.cpp",
+		"/home/higor/Dropbox/Maratona/1006.cpp",
+		"/home/higor/Dropbox/Maratona/1007.cpp",
+		"/home/higor/Dropbox/Maratona/1004in",
+		"/home/higor/Dropbox/Maratona/1005in",
+		"/home/higor/Dropbox/Maratona/1006in",
+		"/home/higor/Dropbox/Maratona/1007in",
+		"/home/higor/Dropbox/Maratona/1003.cpp",
+		"/home/higor/Dropbox/Maratona/1003in",
+		"/home/higor/Dropbox/Maratona/1002.cpp",
+		"/home/higor/Dropbox/Maratona/1002in",
+		"/home/higor/Dropbox/Maratona/1069.cpp",
+		"/home/higor/Dropbox/BD/Lista 4/questao3.sql",
+		"/home/higor/interpet/site-pet/interpet/templates/interpet/interpet.html",
+		"/home/higor/interpet/site-pet/interpet/templates/interpet/sobre.html",
+		"/home/higor/Downloads/ag-1.05.py",
+		"/home/higor/site_pet/site_pet/blog/apps.py",
+		"/home/higor/site-ticc/ticc/templates/sobre.html",
+		"/home/higor/mod-site_pet/site-pet/website/models.py",
+		"/home/higor/mod-site_pet/site-pet/website/admin.py",
+		"/home/higor/interpet/site-pet/layout _interpet/interpet.html",
+		"/home/higor/interpet/site-pet/layout _interpet/js/bootstrap.js",
+		"/home/higor/interpet/site-pet/layout _interpet/js/npm.js",
+		"/home/higor/mod-site_pet/site-pet/interpet/admin.py",
+		"/home/higor/Dropbox/PET/Tutorial HTML/SitePet/pagina2.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/SitePet/index.html",
+		"/home/higor/Dropbox/PET/layout _interpet/css/bootstrap.css",
+		"/home/higor/Dropbox/PET/interpet/css/estilos_higor.css",
+		"/home/higor/Dropbox/PET/interpet/interpet.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/SitePet/css/bootstrap.css",
+		"/home/higor/.ambientes/trydjango/src/newsletter/models.py",
+		"/home/higor/Dropbox/PET/Tutorial HTML/SitePet/contato.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/servicos.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/css/normalize.css",
+		"/home/higor/.ambientes/trydjango/src/newsletter/templates/home.html",
+		"/home/higor/.ambientes/django-tutorial/teste.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/formularios.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/pagina2.html",
+		"/home/higor/teste.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/contato.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/clientes.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/index.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/sobre.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/projeto-final-tutorial/css/estilo.css",
+		"/home/higor/Dropbox/PET/Tutorial HTML/reset.css",
+		"/home/higor/Dropbox/PET/Tutorial HTML/estilo3.css",
+		"/home/higor/Dropbox/PET/Tutorial HTML/listas.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/seo-titulos.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/primeiro-layout.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/estilo2.css",
+		"/home/higor/Dropbox/PET/Tutorial HTML/link-img.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/estilo.css",
+		"/home/higor/Dropbox/PET/Tutorial HTML/pages/pagina1.html",
+		"/home/higor/Dropbox/PET/Tutorial HTML/pagina1.html",
+		"/home/higor/.ambientes/django-tutorial/tutorial/mysite/manage.py",
+		"/home/higor/.ambientes/django-tutorial/tutorial/mysite/polls/migrations/0001_initial.py",
+		"/home/higor/.ambientes/django-tutorial/tutorial/mysite/polls/apps.py",
+		"/home/higor/Documentos/Curso_Pet/curso-pet/ex/testsCoimbra.py",
+		"/home/higor/Documentos/Curso_Pet/teste.py",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/Python/teste.txt",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/No.cpp",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/main.cpp",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/No.h",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/Arvore.h",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/makefile",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/README.txt",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/Arvore.cpp",
+		"/home/higor/Dropbox/TP_FINAL_HigorCoimbra/makefile",
+		"/home/higor/Dropbox/TP_FINAL_HigorCoimbra/README.txt",
+		"/home/higor/Downloads/metodos_tampa/substituicoes_sucessivas_pivotal.sce",
+		"/home/higor/Downloads/metodos_tampa/substituicoes_retroativas.sce",
+		"/home/higor/Downloads/Documents/Exercicio_1_2_3/Refinamento.m",
+		"/home/higor/Downloads/metodos_tampa/refinamento_solucoes.sce",
+		"/home/higor/Downloads/metodos_tampa/reduz_casas.sce",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/teste",
+		"/home/higor/Dropbox/TP_FINAL_II_HigorCoimbra/untitled",
+		"/home/higor/Dropbox/trabalho_final_aeds/Grafo.cpp",
+		"/home/higor/Dropbox/trabalho_final_aeds/teste2",
+		"/home/higor/Dropbox/trabalho_final_aeds/main.cpp",
+		"/home/higor/Dropbox/trabalho_final_aeds/Aresta.cpp",
+		"/home/higor/Dropbox/trabalho_final_aeds/Aresta.h",
+		"/home/higor/Dropbox/trabalho_final_aeds/Grafo.h",
+		"/home/higor/Dropbox/trabalho_final_aeds/Comparador.cpp",
+		"/home/higor/Dropbox/trabalho_final_aeds/Comparador.h",
+		"/home/higor/Dropbox/experimento_arduino/Dados_26_04/temperatura_26_04.txt",
+		"/home/higor/Dropbox/arvore_patricia/algoritmo_patricia/No.h",
+		"/home/higor/Dropbox/arvore_patricia/algoritmo_patricia/No.cpp",
+		"/home/higor/Dropbox/arvore_patricia/algoritmo_patricia/Patricia.h"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"INSERT",
+			"cout",
+			"variavel",
+			"regras",
+			"caminho",
+			"inicio",
+			";\n",
+			"alfabetoI",
+			"total_data",
+			"n_vias",
+			"CRUZAR",
+			"programacao",
+			"pagina",
+			"container",
+			"fadeIn",
+			"0% { opacity: 0;}\n100% { opacity: 1; }",
+			"\\n",
+			"<div class=\"links\">\n              <a href=\"facebook.com\"><i class=\"fa fa-facebook-square\"></i></a>\n            </div>",
+			"home",
+			"<a href=\"#\"><img class=\"img-responsive img-rounded\" src=\"img/mapa.jpg\" alt=\"imagem2\"></a>",
+			"img-responsive",
+			"pagination",
+			";\n",
+			"navbar-nav",
+			"overflow: hidden",
+			"overflow:hidden",
+			"nav",
+			"color",
+			"nav-tabs",
+			"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus elit sit amet orci suscipit fringilla. Pellentesque et luctus ex, vel fermentum ante. Vestibulum sit amet rhoncus purus. </p>",
+			"hover",
+			"linha",
+			"col8",
+			"menu",
+			"color",
+			"nav",
+			"h1",
+			"Nome",
+			"question_id",
+			"....",
+			"sem",
+			"sem-padding",
+			"marcador",
+			".jpg",
+			".img",
+			"header",
+			"solucao_inicial",
+			"*);",
+			"v->",
+			"->",
+			"_peso()",
+			"_vertice()",
+			"vertice",
+			"cout",
+			"aciclico",
+			"{\n",
+			"1",
+			"NoExterno",
+			"NoInterno",
+			"A",
+			";\n",
+			"cout",
+			"largura_aux",
+			";\n",
+			"matriz_nos",
+			" \\",
+			"( ",
+			";\n",
+			"define_raiz",
+			".",
+			"cout",
+			"direcionado",
+			"cout",
+			");\n",
+			"[i]",
+			"Par",
+			".\n",
+			"lf",
+			"x",
+			"avaliamenor",
+			" (",
+			"y",
+			"\\n",
+			"valor",
+			"printf",
+			"atual:\\n",
+			"iterador",
+			"iterador_copia",
+			"7F:2F:83",
+			"33:60:40",
+			"79:9B:40",
+			"print",
+			"10:C6:FC",
+			"}\n",
+			"10:C6:FC",
+			"28:CC:01",
+			"printf",
+			"int i",
+			";\n",
+			"linha_copiada",
+			"00:12:1C",
+			"printf",
+			"]);",
+			"++;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"estadoAtual",
+			"n_vdf",
+			"expansao",
+			"0% { width:90%;\n		 height:auto; }\n	100% {  width:120%;\n		 	height:auto; } ",
+			"<div class=\"links\">\n              <a href=\"facebook.com\"><i class=\"fa fa-facebook\"></i></a>\n              <a href=\"facebook.com\"><i class=\"fa fa-envelope\"></i></a>\n              <a href=\"facebook.com\"><img src=\"img/lattes.png\" alt=\"\" /></a>\n            </div>",
+			"facebook-square",
+			"<a href=\"#\">\n            <div class=\"img-hover\">      \n              <img class=\"img-responsive img-rounded\" src=\"img/mapa.jpg\" alt=\"imagem1\">\n            </div>\n          </a>",
+			"img-responsive img-rounded",
+			"<p class=\"links\">\n			 			<a href=\"http://lattes.cnpq.br/\" target=\"_blank\">\n			 				<img src=\"http://grfadvocacia.adv.br/wp-content/uploads/2015/06/icon_lattes.png\" alt=\"icone lattes\" />\n			 			</a>\n			 			<a href=\"https://facebook.com/\" target=\"_blank\">\n			 				<img src=\"https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-128.png\" alt=\"icone facebook\">\n			 			</a>\n			 			<a href=\"https://gmail.com/\" target=\"_blank\">\n			 				<img src=\"http://icons.iconarchive.com/icons/dakirby309/windows-8-metro/128/Other-Mail-Metro-icon.png\" alt=\"icone email\">\n			 			</a>\n			 		</p>",
+			"h1",
+			"x0",
+			"v.",
+			".",
+			"second",
+			"peso",
+			"No",
+			"  \\",
+			"(  ",
+			"->",
+			"[pos]",
+			"Individuo",
+			"d",
+			"avalia",
+			"",
+			"atual: ",
+			"linha_n_copiada"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django_tutorial.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
